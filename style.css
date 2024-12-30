@@ -1,0 +1,22 @@
+span{
+    background-color: rgb(84, 202, 84);
+    color: rgb(31, 92, 31);
+    text-align: center;
+    margin-left: 33%;
+}
+table {
+    text-align: center;
+    margin-left: 23%;
+}
+.usergmail{
+    color: rgb(48, 141, 48);
+}
+table, tr , td {
+    border-collapse: collapse;
+}
+
+tr:nth-child(3n) {background-color: rgb(154, 241, 215);}
+button{
+    color: rgb(42, 99, 42);
+    background-color: rgb(147, 216, 147);
+}
